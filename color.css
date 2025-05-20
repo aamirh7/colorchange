@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.body-color {
+    padding-top: 100px;
+    font-family: arial, sans-serif;
+    text-align: center;
+    transition: backgroun-color 05s ease;
+}
+
+.button-color {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
